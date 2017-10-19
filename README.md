@@ -1,2 +1,3 @@
-# estructuras-de-datos
-Author Edgar Portilla
+# estructuras
+
+Proyecto de Estructuras Lineales Básicas
